@@ -1,4 +1,0 @@
-data source url: 
-https://sendgb.com/dDz45nCgFyO
-data description: 
-This repository includes data related to the math, PCB, coal mine, AI era developer training, graphene, LPP and Rescue bag.
