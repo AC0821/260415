@@ -1,6 +1,6 @@
 
  
- **** Instruction: Please download from URL marked by "👉"  ****
+ **** INSTRUCTION: Please only download from URL marked by "👉"  ****
  
  
  
